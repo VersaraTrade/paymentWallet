@@ -8,8 +8,6 @@ Experiment with the Stellar network sdk.
 ### Getting Started
 To run this project:
 ```
-> git clone https://github.com/rafaalb/React-StellarLumens.git
-> cd React-StellarLumens
 > npm install
 > npm start
 ```
